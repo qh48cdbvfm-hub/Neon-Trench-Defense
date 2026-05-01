@@ -1,9 +1,9 @@
 {
-  "name": "react-example",
+  "name": "neon-trench-defense",
   "private": true,
   "version": "0.0.0",
   "main": "electron.js",
-  "homepage": "./",
+  "homepage": "https://qh48cdbvfm-hub.github.io/Neon-Trench-Defense",
   "scripts": {
     "dev": "tsx server.ts",
     "build": "vite build",

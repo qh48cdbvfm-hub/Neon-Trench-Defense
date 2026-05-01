@@ -2,11 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Neon Trench Defense
 
-This contains everything you need to run your app locally.
+This repository contains the web version of the Neon Trench Defense game.
 
-View your app in AI Studio: https://ai.studio/apps/6d89c879-0c9a-4cf0-8053-ff6325818c19
+The live demo is deployed with GitHub Pages.
 
 ## Run Locally
 
